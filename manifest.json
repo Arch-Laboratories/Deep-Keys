@@ -3,9 +3,7 @@
   "name": "DeepKeys - Shortcuts for DeepSeek",
   "version": "1.1",
   "short_description": "A User-friendly Browser Extension for navigating Deep-Seek faster with custom shortcuts.",
-  "description": "DeepKeys is a browser extension designed to supercharge your DeepSeek experience with intuitive keyboard shortcuts, allowing you to navigate conversations effortlessly. No more tedious scrolling or manual copying, DeepKeys streamlines your workflow, making interaction with DeepSeek faster and more efficient.
-
-With seamless shortcut-based navigation, you can quickly jump between messages, scroll through conversations, focus on the chat input, and copy responses with just a keystroke. Whether you're deep in research, analyzing AI-generated content, or managing long conversations, DeepKeys ensures smooth and efficient movement, reducing friction and saving valuable time.",
+  "description": "DeepKeys is a browser extension designed to supercharge your DeepSeek experience with intuitive keyboard shortcuts, allowing you to navigate conversations effortlessly. No more tedious scrolling or manual copying, DeepKeys streamlines your workflow, making interaction with DeepSeek faster and more efficient. \n\n With seamless shortcut-based navigation, you can quickly jump between messages, scroll through conversations, focus on the chat input, and copy responses with just a keystroke. Whether you're deep in research, analyzing AI-generated content, or managing long conversations, DeepKeys ensures smooth and efficient movement, reducing friction and saving valuable time.",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
